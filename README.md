@@ -5,7 +5,14 @@ A basic Python command prompt game of Hangman. Includes easy, intermediate, and 
 
 ## Installing / Dependencies
 - Make sure to have the latest version of Python installed.
-- Download and execute hangmanfinal.py or python hangmanfinal.py in your terminal
+- Download and execute by typing:
+```
+hangmanfinal.py
+```
+or
+```
+python hangmanfinal.py
+```
 
 ## Playing
 - Instructions are presented when starting a game instance
